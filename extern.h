@@ -58,3 +58,7 @@ extern int OPCODE[FUNCNUM];
 extern int FUNCT[FUNCNUM];
 extern char* REG_NAMES[REGNUM];
 extern char* DIREC_NAMES[DIRECTNUM]; 
+
+
+
+/*ls;gmp;gsdkpk;gnspkgpnsk*/
