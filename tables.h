@@ -42,9 +42,3 @@ int is_external_label(label* head, char* arg);
 
 void add_external(external** head, int mem, char* name);
 void free_external(external** head);
-
-
-
-
-
-
